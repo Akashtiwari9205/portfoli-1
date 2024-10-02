@@ -24,20 +24,19 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li> <p>2016-2019 </p> BACHELOR OF COMPUTER Application (BCA) | Ime college (Chaudhary Charan Singh University | meerut</li>
-        <li> <p>2019</p>COMPLETED MY 10+2 FROM GOVT. SR. SEC. SCHOOL SRI KARANPUR (RBSC BOARD)</li>
-        <li> <p>2017</p>COMPLETED MY 10TH FROM TILAK PUBLIC SCHOOL SRIKARANPUR (RBSC BOARD)</li>
+        <li> <p>2015-2016</p>Senior Secondary | CBSE | Delhi</li>
+        <li> <p>2014-2015</p>Higher Secondary | CBSE | Delhi</li>
       </ul>
     ),
   },
   {
-    title: "Certifications",
+    title: "Employment History",
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>The Complete ReactJs Course - Basics to Advanced [2023]</li>
-        <li>Python And Flask Framework Complete Course</li>
-        <li>CSS crash Course For Beginners</li>
-        <li>Machine Learning Basics</li>
+        <li><p>2020-2022</p> Cloud engineer | Fourdatr Enterprise Pvt. Ltd. | Ashok nagar noida</li>
+        <li><p>2022-2023</p>AWS Engineer | Infinitehub | delhi</li>
+        <li><p>2024-Present</p>AWS-consultant | Croma campus pvt ltd | noida sector 16</li>
       </ul>
     ),
   },
