@@ -7,8 +7,8 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "Digi X EduHub Ecommerce Website using MERN Stack",
-    description: "Some key features of this project are:- User can create account as STUDENT or INSTRUCTIOR, INSTRUCTOR can create courses and see his/her overall analytics., STUDENT Can buy courses, watch the content in them., STUDENT can review the courses., Payment integration is there through RAZORPAY.",
+    title: "AWS EC2 WordPress Hosting",
+    description: "Deployed and managed WordPress sites on AWS EC2 Linux instances. Configured servers for performance and security. Established and maintained databases. Implemented backup solutions and resolved issues promptly.",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/mrnavi16",
@@ -16,8 +16,8 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Obstacle Detecting and Avoding Car Project",
-    description: "I was also worked on obstacle detecing and Avoding car project in this project I was used ultrasonic sensor. The car automatic change our direction when some obstacle comming front of the car.",
+    title: "eMart Website Hosting and Deployment",
+    description: "Hosted and deployed eMart website on AWS EC2 instance. Configured server settings and established database connections. Ensured smooth deployment and ongoing management of the website. Implemented security measures and backup solutions for data protection. Resolved any technical issues promptly to maintain website uptime and functionality.",
     image: "/images/projects/2.png",
     tag: ["All"],
     gitUrl: "https://github.com/mrnavi16/obstacledetectingandavoidingcar",
@@ -25,8 +25,8 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Virtual Painter using Machine Learning",
-    description: "In this project I was used python library like pandas, numpy, opencv. Its project fucntionality is its virtual draw on the screen not need any marker and any touchpad device by moving our finger front on the web cam its draw on the display screen.",
+    title: "Real-Time Project Hosting with AWS Services",
+    description: "Successfully deployed and hosted a live domain website using AWS Route 53 for domain management. Utilized AWS S3 for scalable storage and content delivery. Configured DNS settings for seamless routing and reliability. Implemented cloud-based solutions to ensure high availability and performance. Demonstrated proficiency in AWS services for real-world project deployment and management.",
     image: "/images/projects/3.png",
     tag: ["All"],
     gitUrl: "https://github.com/mrnavi16/Computer-Vision-Virtual-Painter",
@@ -34,8 +34,8 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "React Portfolio Website",
-    description: "This is my portfolio website by through this website you can connect with me and you also watch my Tech journey. In this project we are using HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS.",
+    title: "Website Deployment Project: www.aws.tk",
+    description: "Successfully deployed and managed www.aws.tk using a combination of AWS services, including EC2, S3, RDS Database, and Route 53. Utilized EC2 instances for hosting the website, S3 for scalable storage and content delivery, and RDS for managing the database. Configured DNS settings and managed domain routing using Route 53. Demonstrated proficiency in leveraging multiple AWS services for a comprehensive website deployment solution. Ensured high availability, scalability, and performance of the deployed website through effective utilization of AWS resources.",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/mrnavi16",
