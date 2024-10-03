@@ -39,7 +39,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-             Learning never exhausts the mind :)
+             Passionate about leveraging AWS cloud solutions to optimize application performance and scalability
           </p>
           <div>
             <Link
